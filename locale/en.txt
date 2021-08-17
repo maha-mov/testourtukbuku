@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 15
+
+## Media
+
+### Title
+panorama_5BE523A6_5184_C245_41C7_8344696BE9DA.label = 0002
+panorama_5D94FA0E_5185_C245_41C9_BAE3F30CF0C4.label = 0003
